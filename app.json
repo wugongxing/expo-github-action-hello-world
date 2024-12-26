@@ -42,6 +42,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "b5628a36-f52d-4a16-974f-f1bc62cd31fb"
+      }
+    },
+    "owner": "wugongxing"
   }
 }
