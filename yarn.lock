@@ -3322,7 +3322,7 @@ expo-constants@~17.0.0, expo-constants@~17.0.3:
     "@expo/config" "~10.0.4"
     "@expo/env" "~0.4.0"
 
-expo-dev-client@^5.0.7:
+expo-dev-client@~5.0.7:
   version "5.0.7"
   resolved "https://registry.npmmirror.com/expo-dev-client/-/expo-dev-client-5.0.7.tgz#7902cb0443224f6fbc106e88619fd4987e5f3d1c"
   integrity sha512-Ui938ZTSBHqQW9W5LY8Qb8ezf03YqX2LeYoQBh+p3Oen9XAZ67qd0NiQtssJd5GvbS5C5JTtF0OQMMhJAtiIvA==
